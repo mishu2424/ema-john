@@ -1,0 +1,10 @@
+.single-product-design {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid gray;
+  margin-right: 2%;
+}
+.single-div-design {
+  margin-left: 4%;
+  margin-bottom: 1%;
+}

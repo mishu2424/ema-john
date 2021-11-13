@@ -1,0 +1,22 @@
+.header-design img {
+  width: 280px;
+  height: 80px;
+}
+.header-design {
+  text-align: center;
+}
+nav {
+  background-color: black;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+.header-design a {
+  text-decoration: none;
+  color: aliceblue;
+  margin: 20px;
+}
+.header-design a:hover {
+  background-color: antiquewhite;
+  color: black;
+}
